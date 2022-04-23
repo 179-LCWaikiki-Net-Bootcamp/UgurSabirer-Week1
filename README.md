@@ -3,7 +3,7 @@
 
 Projem bir School Management System Web API'si.
 
-Bu projede Öğrenci ve Öğretmen olarak iki tipte veri işlenmektedir.
+Bu projede Öğrenci ve Öğretmen olarak iki tipte veri işlenmekte ve tablo sunulmaktadır.
 
 ## Resimlerle projeye genel bir bakış:
 İlk bakış.
